@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\bin\Release\CsharpHomework1.exe.config
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\bin\Release\CsharpHomework1.exe
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\bin\Release\CsharpHomework1.pdb
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Release\CsharpHomework1.Homework1.resources
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Release\CsharpHomework1.Properties.Resources.resources
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Release\CsharpHomework1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Release\CsharpHomework1.exe
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Release\CsharpHomework1.pdb

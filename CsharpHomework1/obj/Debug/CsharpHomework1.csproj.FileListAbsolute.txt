@@ -1,0 +1,18 @@
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\bin\Debug\CsharpHomework1.exe.config
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\bin\Debug\CsharpHomework1.exe
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\bin\Debug\CsharpHomework1.pdb
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.Properties.Resources.resources
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.exe
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.pdb
+C:\Users\USER\Desktop\pppproject\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.Homework1.resources
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\bin\Debug\CsharpHomework1.exe.config
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.exe
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.pdb
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\bin\Debug\CsharpHomework1.exe
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\bin\Debug\CsharpHomework1.pdb
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.Homework1.resources
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.Properties.Resources.resources
+C:\Users\USER\Desktop\Computer Center\大一上\C#\CsharpHomework1\CsharpHomework1\obj\Debug\CsharpHomework1.csproj.GenerateResource.Cache
